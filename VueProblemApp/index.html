@@ -1,0 +1,16 @@
+﻿<div id="data-div">
+    <label>{{someText}}</label>
+</div>
+
+<script type="text/javascript" src="jquery-1.9.1.js"></script>
+
+<script>
+    $(function() {
+        require(["Main"],
+            function(response) {
+                (new response.MainController).start();
+            });
+    });
+</script>
+
+<script type="text/javascript" src="require.js"></script>

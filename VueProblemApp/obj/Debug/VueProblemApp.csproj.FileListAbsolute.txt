@@ -1,0 +1,10 @@
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\bin\VueProblemApp.dll.config
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\bin\VueProblemApp.dll
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\bin\VueProblemApp.pdb
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\obj\Debug\VueProblemApp.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\obj\Debug\VueProblemApp.dll
+C:\Users\User\documents\visual studio 2015\Projects\VueProblemApp\VueProblemApp\obj\Debug\VueProblemApp.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\VueProblemApp\VueProblemApp\obj\Debug\VueProblemApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\VueProblemApp\VueProblemApp\bin\jquery-1.9.1.js
+C:\Users\User\Documents\Visual Studio 2015\Projects\VueProblemApp\VueProblemApp\bin\require.js
+C:\Users\User\Documents\Visual Studio 2015\Projects\VueProblemApp\VueProblemApp\bin\vue.js
